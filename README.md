@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY INCONNU BOY</h1>
+<h1 align="center">✨ THE NEXT GEN WHATSAPP BOT ✨<br>BY Super Star bot</h1>
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/INCONNU-BOY">
+  <a href="https://github.com/super star bot">
     <img title="Author" src="https://img.shields.io/badge/Author-INCONNU%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R">
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/INCONNU-XD/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/INCONNU-XD/count.svg" alt="    INCONNU~XD~yd4mxRxZ#4ToN4mgcl36fPAB67BeblYxvewqc8TKkOqaYRurR1sU " />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ### ⚙️ Configuration `.env` File
 
 ```env
-SESSION_ID="INCONNU~XD~"
+SESSION_ID="  INCONNU~XD~yd4mxRxZ#4ToN4mgcl36fPAB67BeblYxvewqc8TKkOqaYRurR1sU "
 AUTO_READ_STATUS=true
 STATUS_READ_MSG="*Status Seen By INCONNU-XD ⚡*"
 AUTO_STATUS_REPLY=false
@@ -112,13 +112,13 @@ MODE="public"
 WELCOME=false
 AUTO_READ_MESSAGES=false
 AUTO_TYPING=false
-OWNER_NAME="INCONNU BOY"
-OWNER_NUMBER="554488138425"
+OWNER_NAME="super star bot"
+OWNER_NUMBER="18099439660"
 AUTO_RECORDING=false
 ALWAYS_ONLINE=false
 AUTO_BLOCK=true
 AUTO_REACT=false
-PREFIX="."
+PREFIX="#"
 ```
 
 ``` DEPLOY ON WORKFLOW ⚡
